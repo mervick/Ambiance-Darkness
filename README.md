@@ -21,7 +21,7 @@ You’ll find the Theme option in the Appearance section.
 ![Unity Tweak Tool - Appearance section](http://itsfoss.itsfoss.netdna-cdn.com/wp-content/uploads/2013/11/Unity_tweak_tool_1.jpeg)
 
 Once you have selected the Themes option, you will find all the themes present in the system here. 
-Just click on the one you like. It will be changed instantly. 
+Just click on the "Ambiance Darkness". It will be changed instantly. 
 
 ## Previews
 ### GTK 2
