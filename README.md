@@ -1,14 +1,12 @@
 # Ubuntu Ambiance Darkness Theme 
 The dark theme for Ubuntu 14.04 or later.
 
+## Installation
 
-## Install Unity Tweak Tool
-
+First of all, make sure you have installed Unity Tweak Tool:
 ```bash
 sudo apt-get install unity-tweak-tool
 ```
-
-## Install theme
 
 Open a terminal and use the following commands:
 ```bash
