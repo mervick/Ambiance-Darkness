@@ -8,7 +8,7 @@ First of all, make sure you have installed Unity Tweak Tool:
 sudo apt-get install unity-tweak-tool
 ```
 
-Open a terminal and use the following commands:
+After that, for install theme to your system open a terminal and use the following commands:
 ```bash
 git clone https://github.com/mervick/Ambiance-Darkness.git
 sudo mv -f Ambiance-Darkness /usr/share/themes/Ambiance-Darkness
