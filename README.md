@@ -1,4 +1,5 @@
 # Ubuntu Ambiance Darkness Theme 
+[![Analytics](https://ga-beacon.appspot.com/UA-65295275-1/Ambiance-Darkness)](https://github.com/igrigorik/ga-beacon)
 The dark theme for Ubuntu 14.04 or later.
 
 ## Installation
